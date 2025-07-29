@@ -1,5 +1,7 @@
-scikit-learn==0.23.2
-streamlit
+pip==24.3.1
+setuptools
+wheel
 numpy
-joblib
-
+joblib==1.2.0
+streamlit
+scikit-learn
